@@ -1,0 +1,7 @@
+Relevant Sentiment
+demonetisation : -0.49131
+Reserve Bank of India : -0.308295
+Narendra Modi government : -0.547836
+
+Possible Problems
+1. Looks on spot here.

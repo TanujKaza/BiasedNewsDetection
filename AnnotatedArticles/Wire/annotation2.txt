@@ -1,0 +1,5 @@
+Relevant sentiment
+Rajen Gohain : -0.250233 (Also given maximum relevance)
+
+Possible Problems 
+It's possible that the article overtells the story or exaggerates some facts, in which case you could conclude that the article is negatively biased towards the BJP. But the API wouldn't be able to catch that as some proxy entity would get that bias. 

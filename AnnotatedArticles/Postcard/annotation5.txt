@@ -1,0 +1,7 @@
+Relevant Sentiment
+Barkha Dutt : -0.332354
+Narendra Modi : -0.597114
+Rahul Gandhi : -0.484103
+
+Possible Problems
+1. Narendra Modi is given a negative sentiment due to the negative light that he is casted in by Barkha Dutt which is reported on in the news article.

@@ -1,0 +1,10 @@
+Relevant Sentiment
+Prime Minister Narendra Modi : 0.642921
+prime minister : 0.362671
+BJP : 0.556498
+Smriti Irani : 0.409793
+
+Possible Problems
+1. This is an example where the sentiment analysis has gone horribly wrong. Many entities which should have been a negative sentiment have been given a positive sentiment. We outline some possible reasons below.
+2. "Modi also ensured that the assembly barely met and that even when sessions were on, they were hardly attended." The incremental addition of this sentence seems to give Modi a positive sentiment. 
+3. Smriti Irani getting a positive sentiment also seems to be peculiar as she is mentioned only once in the article and not in an enitrely positive light. Notice however the word ensured and Modi in both these sentences.

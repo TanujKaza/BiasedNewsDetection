@@ -1,0 +1,12 @@
+Relevant Sentiment : 
+RSS : -0.276544 (Disambiguation is wrong : Royal Scientific Society) (Sentiment given wrongly probably due to quotations)
+Sangh : -0.641211 ("Rahul Gandhi had even gone to the extent of calling them Hindu extremists and had compared them to terror groups which had enraged the Sangh supporter’s big way.")
+Congress Party : -0.322665 (Negative sentiment due to "Here’s another burnol moment for Congress party and RSS haters" and positive sentiment due to "It’s good that the Congress leaders are realizing the importance and role of RSS in the development of nation, accepting it and also advising their party workers to follow the same path")
+Rahul Gandhi : -0.53639 (Paragraphs 5 and 6 give it a negative sentiment (This advice ... RSS teaches))
+Deepak Babaria : -0.499219
+
+Possible Problems : 
+1. RSS and Sangh treated as two entities.
+2. Congress Party getting a positive sentiment due to some sentences. 
+3. RSS getting a negative sentiment due to a quotation in the article. The quotation however is positive and praises the RSS. When that is converted to indirect speech, the sentiment to RSS becomes neutral
+4. Sangh gets a negative sentiment due to Rahul Gandhi saying something about the Sangh.

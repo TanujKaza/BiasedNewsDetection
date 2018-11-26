@@ -1,0 +1,8 @@
+Relevant Sentiment 
+Allahabad high court : -0.434582
+Independent Power Products Association of India : -0.576295
+Allahabad HC : -0.51889
+IPPAI : -0.50253
+
+Possible Problems
+The sentiments look good. 

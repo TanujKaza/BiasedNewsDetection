@@ -1,0 +1,7 @@
+Relevant Sentiment
+Yogi : -0.226276 
+Yogi Adityanath : -0.418811
+
+Possible Problems
+1. Giving Yogi a negative sentiment is quite strange in this article. The first paragraph itself gives it a negative sentiment
+The sentence "Yogi Adityanath is leaving no stone unturned in realising PM Modi’s dream. " gives Yogi a negative sentiment, while the sentence "Yogi Adityanath is turning all stones in realising PM Modi’s dream." gives Yogi a positive sentiment. This is quite strange and could be an issue.

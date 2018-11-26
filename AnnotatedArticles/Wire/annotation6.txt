@@ -1,0 +1,9 @@
+Relevant Sentiment 
+BRD Medical College : -0.44484
+Pushpa Sales : -0.20257
+Gorakhpur hospital : -0.527335
+Uttar Pradesh : -0.340548
+
+Possible Problems
+1. This is an example where the instruments get a negative sentiment but the actual entity controlling these instruments doesn't get a negative sentiment. 
+2. Further I"m unsure why Adityanath is tagged as both a person and a company in multiple entities.

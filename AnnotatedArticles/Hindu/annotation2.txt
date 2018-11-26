@@ -1,0 +1,9 @@
+Relevant Sentiment
+India : -0.629437
+apex court : -0.408183
+Patna High Court : -0.841989
+Congress : -0.702899
+
+Possible Problems 
+1. Due to similar problems as seen earlier, India and the ocurts get a negative sentiment
+2. The congress gets a negative sentiment because it opposes the above decrees. Thus it should probably get a neutral sentiment.

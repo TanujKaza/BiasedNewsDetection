@@ -1,0 +1,7 @@
+Relevant Sentiment 
+NDTV : -0.434327
+Kanhaiya Kumar : -0.523256
+Modi : -0.495616 (The issue was orchestrated as few people in the elite class could not accept the fact that Modi won the elections and wanted to tag India and his government as communal.)
+
+Possible Problems
+1. Modi gets a negative sentiment because few people in the elite class couldn't accept the fact that he won the elections. Maybe because some entity is opposing Modi, Modi gets a negative sentiment. This is similar to the case when he received a negative sentiment as Mamata Banerjee was opposing him.

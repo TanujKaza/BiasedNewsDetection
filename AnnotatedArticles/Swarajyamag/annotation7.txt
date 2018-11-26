@@ -1,0 +1,7 @@
+Relevant Sentiment
+Rahul Gandhi : 0
+Prime Minister Narendra Modi : -0.51288
+India : -0.65265
+
+Possible Problems
+Modi gets a negative sentiment because Rahul Gandhi speaks negatively about him.

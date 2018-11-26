@@ -1,0 +1,9 @@
+Relevant Sentiment 
+Rahul Gandhi : -0.485218
+Prime Minister Mr Vajpayee : -0.313519 (Unlike Indira and Rajiv, Vajpayee did not get power as a heredity factor but with hard work and 50 years struggle he achieved something he deserved the most.)
+Sonia Gandhi : -0.467912
+BJP : -0.254106
+Congress : -0.807566
+
+Possible Problems
+1. The post talks about the mistake the BJP and Vajpayee made in securing the release of Rahul Gandhi when the FBI apprehended him at Boston Airport. Hence the BJP and Vajpayee are given a negative sentiment.

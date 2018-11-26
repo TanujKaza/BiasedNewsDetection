@@ -1,0 +1,6 @@
+Relevant Sentiment
+Prime Minister Narendra Modi : -0.532425
+government : -0.455991
+MHRD : -0.658207
+
+The sentiments on this article look good. 

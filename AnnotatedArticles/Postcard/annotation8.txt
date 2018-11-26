@@ -1,0 +1,4 @@
+Relevant Sentiment
+Mamata Banerjee : -0.770692
+
+The API has seemed to have got the sentiment right on this article.

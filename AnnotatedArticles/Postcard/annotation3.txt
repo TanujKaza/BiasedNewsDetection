@@ -1,0 +1,9 @@
+Relevant Sentiment : 
+Congress MP Shashi Tharoor : -0.445738
+Congress : -0.470795
+MP : -0.300276
+
+Sentences conveying the negative sentiments
+“The statement from Tharoor was also insulting to the Nagas”
+“It is so irresponsible on the part of an MP to be professional to this extent.”  (MP isn’t coreferenced to Tharoor though)
+“I wonder what has got into this Congressmen and what gives him the courage to talk nonsense.”

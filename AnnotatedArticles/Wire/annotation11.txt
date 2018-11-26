@@ -1,0 +1,10 @@
+Relevant Sentiment
+Atal Behari Vajpayee : -0.228344
+Narendra Modi : -0.454765
+BJP : -0.433468
+India : -0.396751
+Sangh parivar : -0.475689
+Amit Shah : -0.576582
+
+Possible Problems 
+1. This article critizes Vajpayee as he failed to stand up to Modi after the 2002 riots in Gujarat. The sentiments given to the entities look about correct. 

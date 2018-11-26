@@ -1,0 +1,7 @@
+Relevant Sentiment
+Bharatiya Janata Party : -0.450462
+Lok Sabha : -0.593215
+Rashtriya Janata Dal : -0.443557
+
+Possible Problems
+1. Rashtriya Janata Dal and the Lok Sabha shouldn't probably have gotten negative sentiments.

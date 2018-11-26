@@ -1,0 +1,9 @@
+Relevant Sentiment : 
+Indira Gandhi government : -0.374827 (Indira Gandhi government and Indira Gandhi are treated as different entities)
+Armed Forces : -0.619847 (A bunch of bureaucrats who knew nothing about armed forces and their sacrifice introduced a new policy to ensure that the Armed Forces was cut in size.)
+Third Pay Commission : -0.613645
+Pay Commission : -0.660528
+
+Possible Problems : 
+1. A brief introduction to Indira Gandhi in the first paragraph gives her a positive sentiment. 
+2. The same problem is seen as in the Modi article about the India Post Payments Bank (IPPB). The third pay commission and the pay commission are given a negative sentiment which should actually be attributed to Indira Gandhi. 

@@ -1,0 +1,7 @@
+Relevant Sentiment
+Raman : -0.150332
+Nehru : -0.374822
+
+Possible Problems
+1. Raman is given a negative sentiment because of his behaviour towards Nehru. 
+2. Sentiments given to some other entities are wrong, but they aren't the main entities in the article. 

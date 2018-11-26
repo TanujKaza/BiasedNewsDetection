@@ -1,0 +1,9 @@
+Relevant Sentiment 
+don Dawood Ibrahim : -0.450192
+Prime Minister Modi : 0.0
+UN : -0.613279
+US : -0.613279
+
+Possible Problems
+1. I'm unsure why US and UN get negative sentiments in the text. Could it be due to a possible association with a negative entity in the article?
+2. Modi should have been given a positive sentiment as the article heavily praises the diplomacy of Modi.

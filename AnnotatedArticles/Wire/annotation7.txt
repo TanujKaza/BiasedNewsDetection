@@ -1,0 +1,8 @@
+Relevant Sentiment 
+1. Modi government : -0.393547
+2. PMUY : -0.234629
+3. OMCs : -0.511827
+4. BPL : -0.57332
+
+Possible Problems
+1. Altough the article gives Modi a negative sentiment, a similar problem is observed as seen in the previous example.

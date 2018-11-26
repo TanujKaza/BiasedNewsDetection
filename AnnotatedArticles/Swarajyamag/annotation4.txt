@@ -1,0 +1,2 @@
+Relevant Sentiment
+All relevant entities get a neutral sentiment in this article.

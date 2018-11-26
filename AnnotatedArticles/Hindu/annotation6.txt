@@ -1,0 +1,8 @@
+Relevant Sentiment
+Deepawali : -0.559568
+West Bengal : -0.216722
+Ujjwal Mondal : -0.594509
+
+Possible Problems
+1. Names like Deepawali and Islam could create a problem in some cases.
+2. This is an example of West Bengal and High Court acting as proxies for other entities.

@@ -1,0 +1,8 @@
+Relevant Entities :
+Modi government - 0.0 (I would have expected the first paragraph to give it a positive sentiment.)
+IPPB - 0.536709 (IPPB will leverage reach of 1.55 lakh post office branches to provide banking and financial service to people in rural area.)
+MNREGA - 0.555305 (Now, the schemes like MNREGA will have benefits reaching the farmers and rural people directly without involving any middleman.)
+
+Possible Problems : 
+1. Modi should be given a positive sentiment but it's instead given to India Post Payments Bank. 
+2. India Post Payments Bank and IPPB are treated as separate entities. 

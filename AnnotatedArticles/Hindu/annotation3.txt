@@ -1,0 +1,4 @@
+Relevant Sentiment 
+Chief Minister Nitish Kumar : 0.445708
+Bihar : -0.421863
+Rashtriya Janata Dal : -0.28925

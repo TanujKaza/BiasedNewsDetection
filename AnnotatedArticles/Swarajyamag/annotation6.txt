@@ -1,0 +1,7 @@
+Relevant Sentiment
+Rahul Gandhi : -0.300542
+India : -0.259873
+Congress : -0.54434
+
+Possible Problems
+1. India gets a negative sentiment due to Rahul Gandhi's comments about India and the government.

@@ -1,0 +1,7 @@
+Relevant Sentiment : 
+Mamata Banerjee : -0.380763
+BJP : -0.557547
+
+Unsure why some entities are given a negative sentiment. For instance in the text below, the BJP gets a negative sentiment of -0.557. Due to this the entire article also gets a negative sentiment for BJP
+
+"This issue has literally disturbed Mamata Banerjee more than anyone who is making noise against the BJP government."

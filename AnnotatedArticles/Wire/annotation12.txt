@@ -1,0 +1,9 @@
+Relevant Sentiment 
+prime minister : -0.689806
+Congress party : -0.509067
+Bharatiya Janata Party : -0.438184
+Rahul Gandhi : -0.865041
+Rajiv Gandhi : -0.438855
+
+Possible Problems 
+1. Looks Good!

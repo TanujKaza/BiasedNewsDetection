@@ -1,0 +1,10 @@
+Relevant Sentiment
+Shujaat Bukhari : -0.40909
+Kashmir : -0.607332
+Sheikh Sajjad Gul : -0.108414
+Srinagar : -0.55078
+Lal Chowk : -0.517506
+
+Possible Problems
+1. There could be similar entities in multiple scenarios. For instance there could be multiple SIT committees or there could be multiple high courts.
+2. The places are given a negative sentiment because the shooting happened in that area. 

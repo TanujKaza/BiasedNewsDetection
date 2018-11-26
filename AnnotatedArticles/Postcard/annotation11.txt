@@ -1,0 +1,6 @@
+Relevant Sentiment
+Burkha Dutt : -0.455425
+Hizbul Mujaheddin Terrorist Zakir Rashid : -0.367864
+Burhan Wani : -0.570847
+
+By the large, the sentiments on this article seem to be correct.

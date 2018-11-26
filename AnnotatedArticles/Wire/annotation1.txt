@@ -1,0 +1,9 @@
+Relevant Sentiment 
+India : -0.689451
+Kashmir : -0.898639
+BJP : 0.0
+
+Possible Problems : 
+The wire is less antagonistic than other sites like postcard which is why the negative sentiment gets attached to India and probably not to BJP. In some cases in the article however they are referring to India and not only the BJP or the NDA government.
+
+Event : Kashmir (Relevance of 0.847097). The event actually is India's dismissal of the UN report on Kashmir.

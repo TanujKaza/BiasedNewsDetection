@@ -1,0 +1,6 @@
+Relevant Sentiment
+gau rakshaks : -0.588083
+Rashtriya Swayamsevak Sangh : -0.6839
+
+Possible Problems
+1. Gau rakshaks should probably get a positive sentiment as the article largely speaks in favour of them.

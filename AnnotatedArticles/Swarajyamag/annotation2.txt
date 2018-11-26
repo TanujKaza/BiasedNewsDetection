@@ -1,0 +1,8 @@
+Relevant Sentiment
+prime minister : -0.0349578
+Jawaharlal Nehru : 0.404996
+Union government : -0.424446
+
+Possible Problems
+1. Nothing negative said about Nehru. Some mention about nobody doubting the legacy of Nehru, which is probably why he gets a positive sentiment
+2. The union government gets a negative sentiment as 

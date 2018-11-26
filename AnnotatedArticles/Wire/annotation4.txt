@@ -1,0 +1,7 @@
+Relevant Sentiment 
+RTI : -0.349056
+Central government : 0.0
+BJP : -0.236904
+
+Possible Problems
+1. RTI getting a negative sentiment is spurious but at least the BJP gets a negative sentiment. It could be due to simply luck though as evidenced by only one occurence of BJP in the whole paragraph.

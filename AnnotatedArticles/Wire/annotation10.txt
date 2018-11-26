@@ -1,0 +1,8 @@
+Relevant Sentiment 
+BJP : -0.521853
+Atal Bihari Vajpayee : -0.551563
+Prime Minister Narendra Modi : -0.336819
+Rahul Gandhi : -0.306528
+
+Possible Problems 
+1. The entities seem to be getting a negative sentiment because the article rebukes these people for invoking Vajpayee's name for political gains. Vajpayee shouldn't get a negative sentiment but that's probably happening due to the negative sentiment dished out in the article.

@@ -1,0 +1,8 @@
+Relevant Sentiment
+AAP : -0.244773
+Punjab : -0.455219
+Congress : -0.505031
+
+Possible Problems
+1. Actual units : Punjab congress and congress.
+2. Not really negatively biased towards AAP and Congress.

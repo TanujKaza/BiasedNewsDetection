@@ -1,0 +1,8 @@
+Relevant Sentiment
+Narendra Modi : -0.494156
+Rajiv Gandhi : 0.340789
+National Democratic Alliance : -0.27297
+
+Possible Problems
+1. Modi gets a negative sentiment as the article talks about how his government hasn't had a lot of growth in the last five years. 
+2. Rajiv Gandhi gets a positive sentiment as the article mentions that his government had the highest growth rate recorded in independent India. 

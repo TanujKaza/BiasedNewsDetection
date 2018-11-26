@@ -1,0 +1,5 @@
+Relevant Sentiment
+M. Venkaiah Naidu : -0.86076
+
+Possible Problems
+1. Naidu is given a negative sentiment due to the sentence "Chairman Naidu had yesterday said in the House that he will look into the remarks and see if there was something objectionable.". This is probably due to the word objectionable. Replace objectionable with good and the sentiment becomes neutral. I'm not sure how we would deal with situations like these.
